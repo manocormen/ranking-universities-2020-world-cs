@@ -4,6 +4,8 @@
 
 Combine leading university CS rankings into one. We did so using Jypiter Notebook.
 
+You may read the associated [article](https://www.classcentral.com/report/top-cs-universities-courses/) on [Class Central](https://www.classcentral.com/).
+
 ## How to Open the Notebook
 
 * Install [miniconda3](https://docs.conda.io/en/latest/miniconda.html).
