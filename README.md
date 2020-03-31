@@ -4,7 +4,7 @@
 
 Combine leading university CS rankings into one using Jupyter Notebook.
 
-You may read the associated [article](https://www.classcentral.com/report/top-cs-universities-courses/) on [Class Central](https://www.classcentral.com/).
+You may read the associated [article](https://www.classcentral.com/report/cs-online-courses/) on [Class Central](https://www.classcentral.com/).
 
 ## How to Open the Notebook
 
