@@ -6,6 +6,10 @@ Combine leading university CS rankings into one using Jupyter Notebook.
 
 You may read the associated [article](https://www.classcentral.com/report/cs-online-courses/) on [Class Central](https://www.classcentral.com/).
 
+## Output
+
+![Screenshot of the script's output](images/top-ten.png)
+
 ## How to Open the Notebook
 
 * Install [miniconda3](https://docs.conda.io/en/latest/miniconda.html).
